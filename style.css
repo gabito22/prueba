@@ -1,0 +1,26 @@
+.estilo_caja{
+	background: green;
+	width: 700px;
+	height: 500px;
+	box-shadow: 3px 3px 3px #000;
+	margin:30px;
+	padding: 30px;
+	border-radius: 3px;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+
+.s{
+	color: white;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Calibri;
+}
+
+.estilo_caja{
+	color: white;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Harrington;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 20px;
+}
